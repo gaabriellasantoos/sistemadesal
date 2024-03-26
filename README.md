@@ -17,4 +17,10 @@ HTML: Utilizado para criar a estrutura da página e os elementos do formulário.
 PHP: Utilizado para realizar os cálculos do salário do vendedor com base nas metas de vendas fornecidas pelo usuário.
 CSS: Utilizado para estilizar a página e fornecer uma aparência visual agradável e responsiva.
 
+# fontes consultas
+chat gpt
+google
+
+# autores
+Gabriella
 
