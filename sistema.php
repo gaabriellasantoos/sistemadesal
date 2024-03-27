@@ -55,11 +55,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         
         // Valores informados pelo usuário
         $nome_vendedor = $_POST['nome_vendedor'];
-        $vendas_semanais = $_POST['meta_semanal']; // Considerando que as vendas semanais correspondem à meta semanal para simplificação
+        $meta_semanal = $_POST['meta_semanal']; // Considerando que as vendas semanais correspondem à meta semanal para simplificação
         $salario_minimo = 1500; // Salário mínimo
         
-        // Calcula o salário final
-        $salario_final = calcularSalarioVendedor($vendas_semanais, $salario_minimo);
+        // Correção do erro: usar $_POST['meta_semanal'] em vez de $vendas_semanais
+        $salario_final = calcularSalarioVendedor($meta_semanal, $salario_minimo);
         
         // Exibe o resultado
         echo "<h3>Resultado para $nome_vendedor:</h3>";
