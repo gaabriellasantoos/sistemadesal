@@ -20,9 +20,10 @@ Após submeter o formulário, o sistema calcula o salário do vendedor com base 
 O salário final é exibido na página para o usuário
 
 # tecnologias utilizadas
-HTML: Utilizado para criar a estrutura da página e os elementos do formulário.
-PHP: Utilizado para realizar os cálculos do salário do vendedor com base nas metas de vendas fornecidas pelo usuário.
-CSS: Utilizado para estilizar a página e fornecer uma aparência visual agradável e responsiva.
+``HTML``
+``PHP``
+``CSS``
+``Github``
 
 # fontes consultas
 chat gpt
