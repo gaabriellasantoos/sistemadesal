@@ -1,11 +1,11 @@
 # sistemadesal
-[sistemadesal]
-[descrição]
-[introdução]
-[funcionalidades]
-[Tecnologiasutilizadas]
-[fontesconsultadas]
-[autores]
+[sistemadesal] (#sistemadesal)
+[descrição](#descri%C3%A7%C3%A3o)
+[introdução](#introdu%C3%A7%C3%A3o)
+[funcionalidades](#funcionalidades)
+[Tecnologiasutilizadas](#tecnologias-utilizadas)
+[fontesconsultadas](#fontes-consultas)
+[autores](#autores)
 
 
 # Descrição
