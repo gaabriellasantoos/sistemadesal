@@ -1,5 +1,5 @@
 # sistemadesal
-[sistemadesal] (#sistemadesal)
+[sistemadesal](#sistemadesal)
 [descrição](#descri%C3%A7%C3%A3o)
 [introdução](#introdu%C3%A7%C3%A3o)
 [funcionalidades](#funcionalidades)
